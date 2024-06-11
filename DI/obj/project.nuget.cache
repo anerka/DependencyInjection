@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tZtVkBABPwOPzKo2qG2cFFG11awFJ0UL66g7Ft5gOYESKwb024lQk+U42nafMZIfolO3Tnbc48F6NN3ryjCS4g==",
+  "success": true,
+  "projectFilePath": "/Users/anerka/Source/Anerka/DI/DI/DI.csproj",
+  "expectedPackageFiles": [
+    "/Users/anerka/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-preview.4.24266.19/microsoft.extensions.dependencyinjection.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/anerka/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.4.24266.19/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.4.24266.19.nupkg.sha512"
+  ],
+  "logs": []
+}
